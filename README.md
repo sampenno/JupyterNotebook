@@ -1,4 +1,4 @@
-This Repository uses Numpy to create and manipulate arrays.
+### This Repository uses Numpy to create and manipulate arrays.
 
 Also, you'll need to install Python and Jupyter Notebook in your Codespace to use these projects.
 
